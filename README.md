@@ -87,7 +87,6 @@ Open the notebook in `notebooks/` and run the cells in order.
 ## Author
 
 **Abdul Moiz**
-GitHub: [@your-username](https://github.com/your-username)
 
 ## License
 
